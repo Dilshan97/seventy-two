@@ -20,7 +20,7 @@ $(function () {
 	}
 	else {
 		$('#home').tubular({
-			videoId: 'y-s7MaoPjGYdA' //s7MaoPjGYdA
+			videoId: 's7MaoPjGYdA' //s7MaoPjGYdA
 		}); // where videoId is the YouTube ID.ZeBO0ro8Q
 	}
 
