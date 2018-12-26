@@ -20,8 +20,8 @@ $(function () {
 	}
 	else {
 		$('#home').tubular({
-			videoId: 'y-ZeBO0ro8Q'
-		}); // where videoId is the YouTube ID.
+			videoId: 'y-s7MaoPjGYdA' //s7MaoPjGYdA
+		}); // where videoId is the YouTube ID.ZeBO0ro8Q
 	}
 
 	/* ---------------------------------------------------------
