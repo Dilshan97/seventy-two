@@ -615,7 +615,7 @@ form.signup button.btn {
 @media (min-width: 768px) {
 	.heading {
 		font-size: 50px;
-		margin: 45px 0 10px;
+		margin: 20px 0 10px;
 	}
 
 	#signupForm .form-control-feedback {
