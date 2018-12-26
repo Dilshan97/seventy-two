@@ -875,7 +875,6 @@ p.copyright {
  * --------------------------------------------------------- */
 
 .social {
-	margin-top: 20px;
 	font-size: 14px;
 }
 
@@ -894,7 +893,7 @@ p.copyright {
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 	footer {
-		margin-top: 70px;
+		margin-top: 50px;
 	}
 
 	footer .pull-left {
