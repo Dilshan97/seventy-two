@@ -927,6 +927,7 @@ p.copyright {
 .container img[name=logo] {
 	width: 200px;
 	height: 270px;
+	margin-bottom: -50px; 
 	animation: shake 1.5s;
 	animation-iteration-count: infinite;
 }
