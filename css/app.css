@@ -845,9 +845,7 @@ form.signup button.btn {
 		margin-top: 2em;
 	}
 
-	#contactForm .form-control:[name="name"] {
-		margin-bottom: 0;
-	}
+	
 }
 
 
